@@ -1,2 +1,2 @@
-# postgresql to redshift data migrationnn
+# postgresql to redshift data migration
 
