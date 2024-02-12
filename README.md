@@ -1,1 +1,1 @@
-# Postgresql to Redshift data migrationn
+# Postgresql to Redshift data migration
